@@ -1,0 +1,59 @@
+Q1. Who developed Python Programming?
+   a)Wick Van Rossum
+   b)Rasmus Lerdorf
+   c)Guido Van Rossum
+   d)Niene Stom
+
+Q2. Which type of Programming does Python support?
+    a)object-oriented programming
+    b)structured programming
+    c)functional programming
+    d)all of them mentioned
+
+Q3. Which two statements are used to implement iteration?
+    a) FOR and WHILE
+    b) IF and WHILE
+    c) ELSE and WHILE
+    d) IF and ELSE 
+
+Q4. Is Python case sensitive when dealing with identifiers?
+    a)no
+    b)yes
+    c)machine dependant
+    d)none of the mentioned
+
+Q5. Which of the following is not a core data type in Python Programming?
+    a)Tuples
+    b)Lists
+    c)Class
+    d)Dictionary
+
+Q6. What does pip stand for Python?
+    a)Pip Installs Python
+    b)Pip Installs Packages
+    c)Preffered Installer Program
+    d)All of them mentioned
+
+Q7. Which of the following character is used to give single-line comments in Python?
+    a)//
+    b)#
+    c)!
+    d)/*
+
+Q8. Which of the following functions is a built-in function in Python?
+    a)factorial()
+    b)print()
+    c)seed()
+    d)sqrt()
+
+Q9. What arithmetic operators cannot be used with strings in Python?
+    a)*
+    b)-
+    c)+
+    d)All of them mentioned
+
+Q10. What is the maximum possible length of an identifier in Python?
+     a)79 characters
+     b)31 characters
+     c)63 characters
+     d)none of the mentioned
